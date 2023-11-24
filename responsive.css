@@ -1,0 +1,377 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* this is hero start */
+#hero #hero1{
+    width: 50%;
+}
+#hero #hero2{
+    width: 50%;
+}
+/* this is hero end */
+/* this is Ready start */
+#ready #ready1{
+    width: 100%;
+}
+/* this is Ready end */
+/* this is TARGETED start */
+#targeted #targeted1{
+    width: 33.3333333%;
+}
+#targeted #targeted2{
+    width: 33.3333333%;
+}
+#targeted #targeted3{
+    width: 33.3333333%;
+}
+/* this is TARGETED end */
+/* this is Countless start */
+#countless #countless1{
+    width: 33.3333333%;
+}
+#countless #countless2{
+    width: 33.3333333%;
+}
+#countless #countless3{
+    width: 33.3333333%;
+}
+#countless #countless4{
+    width: 33.3333333%;
+}
+#countless #countless5{
+    width: 33.3333333%;
+}
+#countless #countless6{
+    width: 33.3333333%;
+}
+#countless #countless7{
+    width: 33.3333333%;
+}
+#countless #countless8{
+    width: 33.3333333%;
+}
+#countless #countless9{
+    width: 33.3333333%;
+}
+/* this is Countless end */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* this is hero start */
+#hero #hero1{
+    width: 50%;
+}
+#hero #hero2{
+    width: 50%;
+}
+/* this is hero end */
+/* this is Ready start */
+#ready #ready1{
+    width: 100%;
+}
+/* this is Ready end */
+/* this is TARGETED start */
+#targeted #targeted1{
+    width: 33.3333333%;
+}
+#targeted #targeted2{
+    width: 33.3333333%;
+}
+#targeted #targeted3{
+    width: 33.3333333%;
+}
+/* this is TARGETED end */
+/* this is Countless start */
+#countless #countless1{
+    width: 33.3333333%;
+}
+#countless #countless2{
+    width: 33.3333333%;
+}
+#countless #countless3{
+    width: 33.3333333%;
+}
+#countless #countless4{
+    width: 33.3333333%;
+}
+#countless #countless5{
+    width: 33.3333333%;
+}
+#countless #countless6{
+    width: 33.3333333%;
+}
+#countless #countless7{
+    width: 33.3333333%;
+}
+#countless #countless8{
+    width: 33.3333333%;
+}
+#countless #countless9{
+    width: 33.3333333%;
+}
+/* this is Countless end */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* this is hero start */
+    #hero #hero1{
+        width: 50%;
+    }
+    #hero #hero2{
+        width: 50%;
+    }
+ /* this is hero end */
+ /* this is Ready start */
+#ready #ready1{
+    width: 100%;
+}
+/* this is Ready end */
+/* this is TARGETED start */
+#targeted #targeted1{
+    width: 33.3333333%;
+}
+#targeted #targeted2{
+    width: 33.3333333%;
+}
+#targeted #targeted3{
+    width: 33.3333333%;
+}
+/* this is TARGETED end */
+/* this is Countless start */
+#countless #countless1{
+    width: 33.3333333%;
+}
+#countless #countless2{
+    width: 33.3333333%;
+}
+#countless #countless3{
+    width: 33.3333333%;
+}
+#countless #countless4{
+    width: 33.3333333%;
+}
+#countless #countless5{
+    width: 33.3333333%;
+}
+#countless #countless6{
+    width: 33.3333333%;
+}
+#countless #countless7{
+    width: 33.3333333%;
+}
+#countless #countless8{
+    width: 33.3333333%;
+}
+#countless #countless9{
+    width: 33.3333333%;
+}
+/* this is Countless end */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* this is hero start */
+    #hero #hero1{
+        width: 50%;
+    }
+    #hero #hero2{
+        width: 50%;
+    }
+/* this is hero end */
+/* this is Ready start */
+#ready #ready1{
+    width: 100%;
+}
+/* this is Ready end */
+/* this is TARGETED start */
+#targeted #targeted1{
+    width: 33.3333333%;
+}
+#targeted #targeted2{
+    width: 33.3333333%;
+}
+#targeted #targeted3{
+    width: 33.3333333%;
+}
+/* this is TARGETED end */
+/* this is Countless start */
+#countless #countless1{
+    width: 33.3333333%;
+}
+#countless #countless2{
+    width: 33.3333333%;
+}
+#countless #countless3{
+    width: 33.3333333%;
+}
+#countless #countless4{
+    width: 33.3333333%;
+}
+#countless #countless5{
+    width: 33.3333333%;
+}
+#countless #countless6{
+    width: 33.3333333%;
+}
+#countless #countless7{
+    width: 33.3333333%;
+}
+#countless #countless8{
+    width: 33.3333333%;
+}
+#countless #countless9{
+    width: 33.3333333%;
+}
+/* this is Countless end */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* this is hero start */
+    #hero #hero1{
+        width: 100%;
+    }
+    #hero #hero2{
+        width: 100%;
+    }
+/* this is hero end */
+/* this is Ready start */
+#ready #ready1{
+    width: 100%;
+}
+/* this is Ready end */
+/* this is TARGETED start */
+#targeted #targeted1{
+    width: 100%;
+}
+#targeted #targeted2{
+    width: 100%;
+}
+#targeted #targeted3{
+    width: 100%;
+}
+/* this is TARGETED end */
+/* this is Countless start */
+#countless #countless1{
+    width: 100%;
+}
+#countless #countless2{
+    width: 100%;
+}
+#countless #countless3{
+    width: 100%;
+}
+#countless #countless4{
+    width: 100%;
+}
+#countless #countless5{
+    width: 100%;
+}
+#countless #countless6{
+    width: 100%;
+}
+#countless #countless7{
+    width: 100%;
+}
+#countless #countless8{
+    width: 100%;
+}
+#countless #countless9{
+    width: 100%;
+}
+/* this is Countless end */
+    
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    /* this is hero start */
+    #hero #hero1{
+        width: 100%;
+    }
+    #hero #hero2{
+        width: 100%;
+    }
+/* this is hero end */
+/* this is Ready start */
+#ready #ready1{
+    width: 100%;
+}
+/* this is Ready end */
+/* this is TARGETED start */
+#targeted #targeted1{
+    width: 100%;
+}
+#targeted #targeted2{
+    width: 100%;
+}
+#targeted #targeted3{
+    width: 100%;
+}
+/* this is TARGETED end */
+/* this is Countless start */
+#countless #countless1{
+    width: 100%;
+}
+#countless #countless2{
+    width: 100%;
+}
+#countless #countless3{
+    width: 100%;
+}
+#countless #countless4{
+    width: 100%;
+}
+#countless #countless5{
+    width: 100%;
+}
+#countless #countless6{
+    width: 100%;
+}
+#countless #countless7{
+    width: 100%;
+}
+#countless #countless8{
+    width: 100%;
+}
+#countless #countless9{
+    width: 100%;
+}
+/* this is Countless end */
+    
+  }

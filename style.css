@@ -1,0 +1,301 @@
+.btn-outline-success{
+    height: 45px;
+    width: 120px;
+    background-color: #ffd700;
+    border-style: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.btn-outline-success:hover{
+    background-color: #ffd700;
+    color: black;
+}
+/* this is hero start */
+#hero{
+    width: 100%;
+    float: left;
+    background-color: #f5fdff;;
+}
+#hero #hero1{
+    width: 50%;
+    float: left;
+    padding: 50px;
+    box-sizing: border-box;
+}
+#hero #hero2{
+    width: 50%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.listy{
+    font-size: 36px;
+    font-weight: 700;
+    font-family: "Roboto", sans-serif;
+    color: #1d2746;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.exploredome{
+    width: 170px;
+    height: 55px;
+    border-radius: 5px;
+    border: 3px solid #ffd700;
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+    background-color: #f5fdff;
+}
+.exploredome:hover{
+    background-color: #ffd700;
+}
+/* this is hero end */
+
+/* this is Ready start */
+#ready{
+    width: 100%;
+    padding: 50px;
+    box-sizing: border-box;
+    float: left;
+}
+#ready #ready1{
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.rtl{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 50px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    color: gray;
+}
+.ready{
+    font-size: 36px;
+    font-weight: 700;
+    font-family: "Roboto", sans-serif;
+    color: #1d2746;
+    margin-bottom: 20px;
+}
+/* this is Ready end */
+
+/* this is TARGETED start */
+#targ{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+}
+.targeted{
+    color: #705f00;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 4px;
+    text-align: center;
+}
+.demo{
+    font-size: 36px;
+    font-weight: 700;
+    font-family: "Roboto", sans-serif;
+    color: #1d2746;
+    text-align: center;
+}
+
+#targeted{
+    width: 100%;
+    padding: 25px;
+    box-sizing: border-box;
+    float: left;
+}
+#targeted #targeted1{
+    width: 33.3333333%;
+    padding: 25px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+}
+#targeted #targeted2{
+    width: 33.3333333%;
+    padding: 25px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+}
+#targeted #targeted3{
+    width: 33.3333333%;
+    padding: 25px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+}
+.demotext{
+    font-size: 20px;
+    color: rgb(77, 76, 76);
+    margin-top: 20px;
+}
+.demotext:hover{
+    color: #ffd700;
+}
+/* this is TARGETED end */
+
+/* this is Countless start */
+#coun{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+}
+.features{
+    color: #705f00;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 4px;
+    margin-top: 30px;
+}
+.countless{
+    font-size: 36px;
+    font-weight: 700;
+    font-family: "Roboto", sans-serif;
+    color: #1d2746;
+}
+#countless{
+    width: 100%;
+    float: left;
+    padding: 25px;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+}
+#countless #countless1{
+    width: 33.3333333%;
+    padding: 25px;
+    box-sizing: border-box;
+    float: left;
+}
+#countless #countless2{
+    width: 33.3333333%;
+    padding: 25px;
+    box-sizing: border-box;
+    float: left;
+}
+#countless #countless3{
+    width: 33.3333333%;
+    padding: 25px;
+    box-sizing: border-box;
+    float: left;
+}
+#countless #countless4{
+    width: 33.3333333%;
+    padding: 25px;
+    box-sizing: border-box;
+    float: left;
+}
+#countless #countless5{
+    width: 33.3333333%;
+    padding: 25px;
+    box-sizing: border-box;
+    float: left;
+}
+#countless #countless6{
+    width: 33.3333333%;
+    padding: 25px;
+    box-sizing: border-box;
+    float: left;
+}
+#countless #countless7{
+    width: 33.3333333%;
+    padding: 25px;
+    box-sizing: border-box;
+    float: left;
+}
+#countless #countless8{
+    width: 33.3333333%;
+    padding: 25px;
+    box-sizing: border-box;
+    float: left;
+}
+#countless #countless9{
+    width: 33.3333333%;
+    padding: 25px;
+    box-sizing: border-box;
+    float: left;
+}
+.performancetext{
+    color: #1d2746;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: "Roboto", sans-serif;
+    margin-top: 18px;
+}
+.performancetext1{
+    color: #6b707f;
+    line-height: 26px;
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    margin-top: 10px;
+}
+/* this is Countless end */
+
+/* this is Templates start */
+#templates{
+    width: 100%;
+    float: left;
+}
+#templates #templates1{
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding: 25px;
+    box-sizing: border-box;
+    background-color: #f6fbfc;
+}
+.need{
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    font-size: 50px;
+    margin-top: 25px;
+    font-family: "Roboto", sans-serif;
+    color: #1d2746;
+    font-weight: 700;
+}
+.temp{
+    padding-top: 0%;
+    margin-top: 0%;
+    font-size: 50px;
+    font-family: "Roboto", sans-serif;
+    color: #1d2746;
+    font-weight: 700;
+}
+.buylisty{
+    height: 55px;
+    width: 180px;
+    background-color: #ffd700;
+    border-style: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+#copy{
+    width: 100%;
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #1d2746;
+}
+.right{
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 10px;
+    color: white;
+}
+/* this is Templates end */
